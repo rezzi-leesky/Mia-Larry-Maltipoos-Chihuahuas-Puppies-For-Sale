@@ -171,7 +171,7 @@ document.querySelectorAll('.card').forEach(c=>c.addEventListener('click',e=>{if(
 <div class="cform"><input id="cn" placeholder="Your name" aria-label="Your name" autocomplete="name"><select id="cp" aria-label="Which puppy"></select><textarea id="cm" placeholder="Type your message…" aria-label="Message"></textarea>
 <div class="cact"><a id="cw" target="_blank" rel="noopener" href="#">WhatsApp</a><a id="cs" href="#">Text</a><a id="ce" href="#">Email</a></div><p class="cnote">Pick how you want to send it. Your message opens ready to send in that app.</p></div></section>
 <script>
-const SELLER={wa:'15550000000',sms:'+15550000000',email:'georgelarri01@gmail.com'};
+const SELLER={wa:'1555000000',sms:'+1555000000',email:'georgelarri01@gmail.com'};
 (function(){const $=id=>document.getElementById(id),pan=$('cpanel'),btn=$('cbtn'),body=$('cbody'),sel=$('cp');
 sel.innerHTML='<option value="">General question</option>'+Object.keys(P).map(k=>`<option value="${k}">About ${P[k].n}</option>`).join('');
 function open(id){pan.hidden=false;btn.setAttribute('aria-expanded','true');if(id!==undefined)sel.value=id;else{const h=location.hash.slice(1).toLowerCase();if(P[h])sel.value=h}$('cm').focus()}
