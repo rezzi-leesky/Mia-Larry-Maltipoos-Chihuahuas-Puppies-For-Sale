@@ -1,0 +1,23 @@
+{
+  "_note": "Edit this file to update the puppies shown on the site. Leave a field null to hide it. Only list facts you can stand behind. See OWNER-TODO.md.",
+  "puppies": [
+    {"id":"mell","name":"Mell","status":"available","breed":"Maltipoo","sex":null,"color":"Apricot","age":"8 weeks","price":2000,
+     "appearance":"Soft apricot coat with a white chest.","photos":["mell-1","mell-2","mell-3","mell-4"]},
+    {"id":"bery","name":"Bery","status":"available","breed":"Maltipoo","sex":null,"color":"Black","age":null,"price":2400,
+     "appearance":"Glossy black coat with soft waves.","photos":["bery-1","bery-2"]},
+    {"id":"max","name":"Max","status":"available","breed":"Maltipoo","sex":null,"color":"Apricot","age":null,"price":1900,
+     "appearance":"Apricot coat with a white chest and a teddy-bear face.","photos":["max-1","max-2","max-3"]},
+    {"id":"luna","name":"Luna","status":"available","breed":"Maltipoo","sex":null,"color":"Cream","age":null,"price":2100,
+     "appearance":"Light cream coat with feathery fur.","photos":["luna-1","luna-2","luna-3","luna-4"]},
+    {"id":"kade","name":"Kade","status":"available","breed":"Maltipoo","sex":null,"color":"Red","age":null,"price":2500,
+     "appearance":"Deep red coat with tight curls.","photos":["kade-1","kade-2","kade-3","kade-4"]},
+    {"id":"bell","name":"Bell","status":"available","breed":"Maltipoo","sex":null,"color":"Red apricot","age":null,"price":2300,
+     "appearance":"Plush red-apricot coat with big dark eyes.","photos":["bell-1","bell-2","bell-3","bell-4"]},
+    {"id":"bale","name":"Bale","status":"available","breed":"Maltipoo","sex":"Boy","color":"Apricot","age":"7.5 weeks","price":1900,
+     "appearance":"Apricot coat with white markings on the chest and paws.","photos":["bale-1","bale-2","bale-3","bale-4"]},
+    {"id":"beili","name":"Beili","status":"available","breed":"Maltipoo","sex":"Girl","color":"Apricot","age":"7 weeks","price":2200,
+     "appearance":"Apricot coat with a white blaze on the forehead and white paws.","photos":["beili-1","beili-2","beili-3","beili-4","beili-5"]},
+    {"id":"xian","name":"Xian","status":"available","breed":"Maltipoo","sex":"Girl","color":"Cream","age":"7.5 weeks","price":2300,
+     "appearance":"Cream coat with soft peach-tinted ears.","photos":["xian-1","xian-2","xian-3","xian-4","xian-5","xian-6"]}
+  ]
+}
